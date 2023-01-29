@@ -15,4 +15,4 @@ Testing_REST_api_PetFriends https://petfriends.skillfactory.ru/
 В директории /tests_/images лежат фотографии для тестов.
 
 SF 24.2.4 - Позитивные тесты для  методов калькулятора. папка- Calculator                                                                      
-SF 24.3.3 - Yаписаны запросы GET, POST, DELETE, PUT c использованием  свободного API https://petstore.swagger.io/v2/swagger.json       (папка Api_Test)
+SF 24.3.3 - Yаписаны запросы GET, POST, DELETE, PUT c использованием  свободного API https://petstore.swagger.io/v2/swagger.json                              (папка Api_Test)
