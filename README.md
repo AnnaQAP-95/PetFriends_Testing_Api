@@ -1,5 +1,5 @@
 # PetFriends_Testing_Api
-SF24.7.2_Testing_REST_api_PetFriends
+SF24.7.2_Testing_REST_api_PetFriends https://petfriends.skillfactory.ru/
 
 Тестовый проект к 24 модулю SkillFactory курса QAP
 
